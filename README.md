@@ -115,7 +115,7 @@ Content-based & collaborative filtering with real-world datasets
     <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x" />
   </a>
   <a href="mailto:aryandhamale07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
