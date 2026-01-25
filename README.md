@@ -1,7 +1,3 @@
-<!-- ======================= -->
-<!--   GITHUB PROFILE README -->
-<!-- ======================= -->
-
 <h1 align="center">
   🚀 Hi, I'm <span style="color:#00C2FF;">Tejas Dhamale</span>
 </h1>
