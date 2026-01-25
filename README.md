@@ -36,7 +36,7 @@
 🧠 **AI & Machine Learning**
 - ML pipelines & feature engineering
 - Supervised, Unsupervised & Deep Learning models
-- Model evaluation & optimization
+- Model evaluation & optimization 
 
 🤖 **GenAI & LLM Systems**
 - RAG (Retrieval-Augmented Generation)
