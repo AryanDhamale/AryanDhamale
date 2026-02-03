@@ -41,6 +41,8 @@
 - AI chatbots & intelligent assistants
 
 📊 **Data Science**
+- FE
+- EDA 
 - Data analysis & visualization
 - Statistical modeling
 - Business-driven insights from data
