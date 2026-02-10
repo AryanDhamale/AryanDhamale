@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI / ML Engineer • Data Scientist • GenAI Builder • Full-Stack Developer
+  AI / ML Engineer • Data Scientist • GenAI Builder • 
 </h3>
 
 <p align="center">
